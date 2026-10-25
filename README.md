@@ -24,4 +24,10 @@ Both data structures used more memory as additional items were added. If a struc
 
 ## Discussion Board Reflection
 
-For my initial discussion post, I reflected on the concepts I learned, the challenges I encountered, and the differences between stacks and queues. I explained how these data structures applied to the cat café examples and how their processing order affected their usefulness in different situations.
+## Discussion Board Reflection
+
+While completing this assignment, I learned how stacks and queues organize information differently depending on what a program needs to accomplish. Using a cat café as my example helped me connect these concepts to something familiar. The stack represented cat profile updates, where the most recent change would be undone first. The queue represented cats waiting for treats, where the first cat in line would be served first.
+
+One challenge I encountered was making sure my code copied correctly into my editor and that everything worked as expected. I realized that overlooking a small detail could make troubleshooting more difficult than necessary. I worked through this by checking my code carefully and testing the operations instead of assuming they were correct.
+
+I also learned why choosing the right data structure matters. A stack is useful when the newest action needs to be handled first, while a queue is useful when items need to be processed in arrival order. Testing empty structures and single-item cases also helped me understand the importance of handling unexpected situations.
